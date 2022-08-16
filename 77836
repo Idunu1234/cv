@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Abdulrahman's Personal site</title>
+<style>
+   body{ background-color:#EAF6F6;
+    }
+ hr{ border-style:none;
+     border-top-style:dotted; 
+     border-color:grey;
+     border-width:10px;
+      width:40%;
+     
+     
+     
+     
+     
+ 
+   }
+ 
+ 
+</style>
+</head>
+<body style="background-color:powderblue;">
+ <table cellspacing="4">
+  <tr>
+  <td><img width="100%"src="pic.jpg"></td>
+ <left><td><h1>Abdulrahman Mustapha</h1> 
+ <p><em>Inventor and a web developer.</em></p>
+ I am a web developer,I love eating fish.</td>
+ </left>
+  </tr>
+ </table>
+ <hr>
+ <h3>Education</h3> 
+ <ul>
+  <li>Arrayan nusery amd primary school.</li>
+  <li>Judy children,secondary school</li>   
+  <li>Kai new era international School</li> 
+ </ul>
+ <hr>
+<p><h3>Work experience 
+</h3></p>
+<table cellspacing="10">
+<thead>
+   <tr>
+   <th>works</th>
+   <th>dates</th>
+   </tr>
+</thead>
+ <tr>
+ <td>Electronics workshop</td>
+ <td>2017</td>
+ </tr>
+ <tr>
+<td>web and electronics</td>
+<td>2022</td>
+</tr>
+</table>
+<hr>
+ <h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+  <td>HTML5🌟🌟🌟🌟🌟</td>
+  <td>TYPING🌟🌟🌟🌟</td>
+  </tr>
+  <tr>
+  <td>CSS🌟🌟🌟🌟</td>  
+  <td>ROBOTICS 🌟🌟</td>  
+  </tr>
+</table></p>
+ <hr>
+ <p><a href="hobbies.html">contact me</a></p>
+    
+</body>      
+</html>
